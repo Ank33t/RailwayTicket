@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"string",
+				"StringBuffer"
+			],
+			[
+				"g",
+				"genre_id"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"num",
+				"numlist"
+			],
+			[
+				"b",
+				"Bold"
+			],
+			[
+				"Co",
+				"comparison"
+			],
+			[
+				"n",
+				"node1"
+			],
+			[
+				"ba",
+				"balance_factor"
+			],
+			[
+				"no",
+				"no_of_keys"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ankeet/Desktop/Python/apriori1.py",
+		"/D/Study/Sem 5/DWM/Lab/apriori.java",
+		"/D/Study/Sem 5/DWM/Lab/apriori.py",
+		"/C/Users/Ankeet/Desktop/1.py",
+		"/C/Users/Ankeet/Desktop/Python/1.py",
+		"/C/Users/Ankeet/Desktop/Python/c4/geodata/where.data",
+		"/C/Users/Ankeet/Desktop/Python/c4/roster.py",
+		"/C/Users/Ankeet/Desktop/Python/c4/tracks/tracks.py",
+		"/C/Users/Ankeet/Desktop/Python/c4/assignment2.py",
+		"/C/Users/Ankeet/Desktop/Python/c4/roster_data.json",
+		"/C/Users/Ankeet/Desktop/Python/ExtractDataXml.py",
+		"/C/Users/Ankeet/Desktop/Python/assignment2URL.py",
+		"/C/Users/Ankeet/Desktop/Python/JSON1.py",
+		"/C/Users/Ankeet/Desktop/Python/geoJSON.py",
+		"/C/Users/Ankeet/Desktop/Python/assignmentURL.py",
+		"/C/Users/Ankeet/Desktop/Python/p1.py",
+		"/C/Users/Ankeet/Desktop/Python/3-1.py",
+		"/C/Users/Ankeet/Desktop/Python/Assignment.py",
+		"/C/Users/Ankeet/Desktop/Python/Assignment 1.py",
+		"/C/Users/Ankeet/Desktop/ECIM/admin/products.php",
+		"/C/Users/Ankeet/Desktop/ECIM/payment_success.php",
+		"/C/Users/Ankeet/Desktop/ECIM/cart.php",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap-reboot.css",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap.min.css",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap-grid.css",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap.css",
+		"/C/Users/Ankeet/Desktop/WTL/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/WTL Exp4/jquery.js",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/WTL Exp4/jquery.html",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/WTL Exp4/jquery.css",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/WTL Exp4/admin-login.blade.php",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/WTL Exp4/login.blade.php",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/ValidationForm.html",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/valid.js",
+		"/C/Users/Ankeet/Desktop/WTL/WTL4/styesheet.css",
+		"/C/Users/Ankeet/Desktop/DAA/tsp.c",
+		"/C/Users/Ankeet/Desktop/DBMS Project/LoginPage.fxml",
+		"/C/Users/Ankeet/Desktop/DBMS Project/SignUpPage.fxml",
+		"/C/Users/Ankeet/Desktop/DAA/tsp.cpp",
+		"/C/xampp/Xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Ankeet/Desktop/sort",
+		"/C/Users/Ankeet/Desktop/selectsort1.c",
+		"/C/Users/Ankeet/Desktop/exp1.c",
+		"/C/Users/Ankeet/Desktop/Ankeet/exp1.html",
+		"/D/Study/Sem 3/OOP/STRINGS/Contains.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/TestJoinMethod3.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/TestJoinMethod4.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/TestMultiPriority1.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Equal.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Concat.java",
+		"/D/Study/Sem 3/OOP/STRINGS/CompareTo.java",
+		"/D/Study/Sem 3/OOP/STRINGS/ArrayCopy.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Equals.java",
+		"/D/Study/Sem 3/OOP/STRINGS/EqualsCase.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Example2.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Example3.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Example4.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Example5.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Example6.java",
+		"/D/Study/Sem 3/OOP/STRINGS/ForEach.java",
+		"/D/Study/Sem 3/OOP/STRINGS/IndexOf.java",
+		"/D/Study/Sem 3/OOP/STRINGS/String2.java_",
+		"/D/Study/Sem 3/OOP/STRINGS/StringbufferExample.java",
+		"/D/Study/Sem 3/OOP/STRINGS/StringCompareTo.java",
+		"/D/Study/Sem 3/OOP/STRINGS/StringindexOf.java_",
+		"/D/Study/Sem 3/OOP/STRINGS/StringUpperExample.java",
+		"/D/Study/Sem 3/OOP/STRINGS/Student.java",
+		"/D/Study/Sem 3/OOP/STRINGS/TestString.java",
+		"/D/Study/Sem 3/OOP/STRINGS/TestString1.java",
+		"/D/Study/Sem 3/OOP/STRINGS/TestSubstring.java",
+		"/D/Study/Sem 3/OOP/STRINGS/TestSubstring.java_",
+		"/D/Study/Sem 3/OOP/STRINGS/toString.java",
+		"/D/Study/Sem 3/OOP/STRINGS/toString1.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Caller.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Callme.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/clicker.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Daemon.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/First.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/HiLoPri.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/InterThread.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Multi.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/InThread1.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Multi3.class",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/Multi3.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/NSyncro.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/TestJoinMethod1.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/TestSleepMethod1.java",
+		"/D/Study/Sem 3/OOP/MT/Multithreading/ThreadDemo.java",
+		"/D/Study/Sem 3/ADS/min_max heap.c",
+		"/D/Study/Sem 3/ADS/DFS.c",
+		"/D/Study/Sem 3/ADS/Circular ll_op.c",
+		"/D/Study/Sem 3/ADS/Doubly linked list.c",
+		"/D/Study/Sem 3/ADS/OPERATION ON LINKED LIST(COUNT,COPY,CONCATENATE,split,reverse).c",
+		"/D/Study/Sem 3/ADS/CRCULAR QUEUE.C",
+		"/D/Study/Sem 3/ADS/Stack op.c",
+		"/D/Study/Sem 3/ADS/Infix to postfic.c",
+		"/D/Study/Sem 3/ADS/Linked list op.c",
+		"/C/Users/Ankeet/Desktop/avl.c",
+		"/D/Study/Sem 3/ADS/Queue.c",
+		"/D/Study/Sem 3/ADS/hash.c",
+		"/C/Users/Ankeet/Desktop/btree.c",
+		"/C/Users/Ankeet/Desktop/AdsExp7",
+		"/C/Users/Ankeet/Desktop/TaskApp/app/src/main/java/com/example/taskapp/MainActivity.java",
+		"/C/Users/TaskApp/app/src/main/java/com/example/taskapp/MainActivity.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/Medicine-Reminder-app--master/Medicine-Reminder-app--master/AlarmReminder/app/src/main/java/com/delaroystudios/alarmreminder/MainActivity.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/Medicine-Reminder-app--master/Medicine-Reminder-app--master/AlarmReminder/app/src/main/java/com/delaroystudios/alarmreminder/AddReminderActivity.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/AddReminderActivity.java",
+		"/C/Users/Ankeet/Hashing.c",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/data/AlarmReminderProvider.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/data/AlarmReminderDbHelper.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/data/AlarmReminderContract.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/reminder/ReminderAlarmService.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/reminder/AlarmScheduler.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/reminder/AlarmManagerProvider.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/MainActivity.java",
+		"/C/Users/Ankeet/AndroidStudioProjects/AlarmReminder-master/AlarmReminder-master/app/src/main/java/com/delaroystudios/alarmreminder/AlarmCursorAdapter.java",
+		"/C/Users/Ankeet/Desktop/exception2.java",
+		"/C/Users/Ankeet/Desktop/exception3.java",
+		"/C/Users/Ankeet/Desktop/exception4.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RailwayTicketBooking.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
