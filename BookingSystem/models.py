@@ -15,6 +15,5 @@ class Train(models.Model):
     def __str__(self):
         return self.Train_Name
 
-
     def get_absolute_url(self):
         return reverse('train-detail', kwargs={'pk': self.pk})

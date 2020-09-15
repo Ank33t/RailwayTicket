@@ -7,7 +7,7 @@ from .models import Profile
 class UserRegistration(UserCreationForm):
     first_name = forms.CharField(max_length=15, widget=forms.TextInput(attrs={'class': 'form-control'}))
     last_name = forms.CharField(max_length=15, widget=forms.TextInput(attrs={'class': 'form-control'}))
-    email = forms.EmailField()
+    email = forms.EmailField(widget=forms.EmailInput(attrs={'class': 'form-control'}))
 
     class Meta:
         model = User
@@ -22,7 +22,7 @@ class UserRegistration(UserCreationForm):
 
 
 class UserUpdate(forms.ModelForm):
-    email = forms.EmailField()
+    email = forms.EmailField(widget=forms.EmailInput(attrs={'class': 'form-control'}))
 
     class Meta:
         model = User
