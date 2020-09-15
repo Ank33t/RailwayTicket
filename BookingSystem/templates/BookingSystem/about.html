@@ -1,82 +1,12 @@
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/w3css/3/w3.css">
+{% extends "BookingSystem/base.html" %}
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+{% block content %}
 
-<head>
-    <style>
-
-*{margin: 0;}
-
-body{
-    background-color: #ff6600;
-    background-size: cover;
-    height: 100vh;
-    background-position: left;
-    margin: 0;
-}
-
-.header{
-    width: 100%;
-    background-color: rgba(0,0,0,.2)
-}
-
-.header ul{
-    text-align: center;
-}
-
-
-.header ul li{
-    list-style: none;
-    display: inline-block;
-}
-
-.header ul li a{
-    display: block;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #fff;
-    font-size: 20px;
-    Letter-spacing: 3px;
-    font-weight: 600;
-    padding: 25px;
-    transition: all ease 0.5s;
-}
-
-li a:hover:not(.active) {
-  background-color: #3399ff;
-}
-
-.active {
-  background-color: #3399ff;
-}
-
-</style>
-</head>
-
-<body>
-
-<!-- Navigation -->
-<div class="header">
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/news">News</a></li>
-        <li><a href="/contact">Contact</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="">Login</a></li>
-        <li><a href="/register">Register</a></li>
-    </ul>
-</div>
-
-<p style="font-size:50px" align="center"><br/><br/><br/>Experience Our Service...<br/><br/></p>
-    <p style="font-size:30px" align="center">India has some of the most spectacular and unforgettable rail journeys in the world.<br/>
+<div class="container">
+<h2 style="color:white"><br/><br/>Experience Our Service...<br/></h2>
+<h3 style="color:white">India has some of the most spectacular and unforgettable rail journeys in the world.<br/>
     Here you experience a simple way to find out everything you need to know in one easy place.<br/>
     There's no better way to enjoy India's outback, cities, coastal towns and regional areas in comfort.<br/>
-</p>
-
-
-</body>
-</html>
+</h3>
+</div>
+{% endblock content %}

@@ -35,6 +35,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'BookingSystem.apps.BookingSystemConfig',
+    'admins.apps.AdminsConfig',
     'crispy_forms',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -123,6 +124,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIR=[STATIC_DIR,]
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+LOGIN_REDIRECT_URL = 'railway-home'
+LOGIN_URL = 'login'

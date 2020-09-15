@@ -1,0 +1,20 @@
+{% extends "BookingSystem/base.html" %}
+
+{% block content %}
+    <article class="media content-section">
+        <div class="media-body">
+            <div class="article-metadata">
+                <h3><a class="article-title" href="#">Train: {{ object.Train_Name }}</a></h3>
+                <small class="text-muted">{{ object.Train_Type }}</small>
+                <div>
+                    <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'train-update' object.id %}">Update</a>
+                    <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'train-delete' object.id %}">Delete</a>
+                </div>
+            </div>
+            <p class="article-content">Journey: From {{ object.Source }}    to     {{ object.Destination }}</p>
+            <p class="article-content">Travel Time: {{ object.Travel_Time }}</p>
+            <p class="article-content">General Class Fare: {{ object.General_Class }}    and    First Class Fare: {{ object.First_Class }}</p>
+        </div>
+    </article>
+{% endblock content %}
+
